@@ -1,18 +1,11 @@
 {
-  "applinks": {
-      "details": [
-           {
-             "appIDs": [ "N9UAAPC6WR.ru.rsv.ios"],
-             "components": [
-               {
-                   "/": "/*",
-                  "comment": “Open application” 
-               }
-             ]
-           }
-       ]
-   },
-   "webcredentials": {
-      "apps": [ "N9UAAPC6WR.ru.rsv.ios" ]
-   }
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "N9UAAPC6WR.ru.rsv.ios",
+                "paths": [ "*"]
+            }
+        ]
+    }
 }
