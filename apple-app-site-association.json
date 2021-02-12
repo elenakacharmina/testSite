@@ -1,11 +1,9 @@
 {
     "applinks": {
         "apps": [],
-        "details": [
-            {
-                "appID": "N9UAAPC6WR.ru.rsv.ios",
-                "paths": [ "*"]
-            }
-        ]
+        "details": [{
+            "appID": "N9UAAPC6WR.ru.rsv.ios",
+            "paths": ["*"]
+        }]
     }
 }
